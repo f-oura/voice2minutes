@@ -1,0 +1,2 @@
+# voice2minutes 依存ライブラリ
+faster-whisper>=1.0.0

@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+venv/
+.venv/
+env/
+.env
+
+# Output files (may contain sensitive meeting content)
+*_transcript.txt
+*_summary.md
+*.wav
+
+# Symlinks to local directories
+Recordings
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
